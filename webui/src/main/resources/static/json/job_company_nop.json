@@ -1,0 +1,61 @@
+{
+	"data":
+	[
+		{
+			"company_nop": "10-50人",
+			"job_num": 5,
+			"avg_salary": 5.5,
+			"hot_job": "销售专员",
+			"hot_job_num": 1,
+			"company_num": 4
+		},
+		{
+			"company_nop": "15-50人",
+			"job_num": 88732,
+			"avg_salary": 10.0913068233058,
+			"hot_job": "产品经理",
+			"hot_job_num": 1369,
+			"company_num": 31020
+		},
+		{
+			"company_nop": "150-500人",
+			"job_num": 83893,
+			"avg_salary": 12.6396068760951,
+			"hot_job": "产品经理",
+			"hot_job_num": 1025,
+			"company_num": 12072
+		},
+		{
+			"company_nop": "2000人以上",
+			"job_num": 61605,
+			"avg_salary": 16.841914731724,
+			"hot_job": "Java",
+			"hot_job_num": 537,
+			"company_num": 3807
+		},
+		{
+			"company_nop": "50-150人",
+			"job_num": 95249,
+			"avg_salary": 11.4147404990542,
+			"hot_job": "产品经理",
+			"hot_job_num": 1374,
+			"company_num": 22367
+		},
+		{
+			"company_nop": "500-2000人",
+			"job_num": 54024,
+			"avg_salary": 13.6339156128237,
+			"hot_job": "产品经理",
+			"hot_job_num": 500,
+			"company_num": 4918
+		},
+		{
+			"company_nop": "少于15人",
+			"job_num": 19499,
+			"avg_salary": 9.19418565292748,
+			"hot_job": "新媒体运营",
+			"hot_job_num": 392,
+			"company_num": 9665
+		}
+	]
+}

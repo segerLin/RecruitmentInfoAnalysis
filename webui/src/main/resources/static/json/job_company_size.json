@@ -1,0 +1,69 @@
+{
+	"data":
+	[
+		{
+			"company_size": "A轮",
+			"job_num": 55094,
+			"avg_salary": 12.5627503631091,
+			"hot_job": "产品经理",
+			"hot_job_num": 888,
+			"company_num": 8932
+		},
+		{
+			"company_size": "B轮",
+			"job_num": 33716,
+			"avg_salary": 14.2973168634358,
+			"hot_job": "产品经理",
+			"hot_job_num": 391,
+			"company_num": 2949
+		},
+		{
+			"company_size": "C轮",
+			"job_num": 20532,
+			"avg_salary": 15.5014186781301,
+			"hot_job": "产品经理",
+			"hot_job_num": 178,
+			"company_num": 1047
+		},
+		{
+			"company_size": "D轮及以上",
+			"job_num": 20148,
+			"avg_salary": 16.4804371127547,
+			"hot_job": "市场推广",
+			"hot_job_num": 148,
+			"company_num": 912
+		},
+		{
+			"company_size": "上市公司",
+			"job_num": 55268,
+			"avg_salary": 14.6712372529823,
+			"hot_job": "产品经理",
+			"hot_job_num": 608,
+			"company_num": 5658
+		},
+		{
+			"company_size": "不需要融资",
+			"job_num": 103436,
+			"avg_salary": 12.3730757702195,
+			"hot_job": "产品经理",
+			"hot_job_num": 1252,
+			"company_num": 25123
+		},
+		{
+			"company_size": "天使轮",
+			"job_num": 37730,
+			"avg_salary": 10.854702523548,
+			"hot_job": "产品经理",
+			"hot_job_num": 721,
+			"company_num": 11590
+		},
+		{
+			"company_size": "未融资",
+			"job_num": 76814,
+			"avg_salary": 9.49638435170303,
+			"hot_job": "文案策划",
+			"hot_job_num": 921,
+			"company_num": 27639
+		}
+	]
+}

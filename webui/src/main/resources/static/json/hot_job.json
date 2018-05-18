@@ -1,0 +1,166 @@
+{
+	"data":
+	[
+		{
+			"title": "ui设计",
+			"hot": 6059,
+			"avg_salary": 10.7477708916684,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"avg_experience": 2.42619234207827
+		},
+        {
+			"title": "Java",
+			"hot": 20795,
+			"avg_salary": 17.3771194742856,
+			"max_salary": 100,
+			"min_salary": 1.5,
+			"avg_experience": 3.47719998834576
+		},
+		{
+			"title": "测试工程师",
+			"hot": 8725,
+			"avg_salary": 13.130944048635502,
+			"max_salary": 35,
+			"min_salary": 1.5,
+			"avg_experience": 2.78351550591738
+		},
+		{
+			"title": "算法工程师",
+			"hot": 2658,
+			"avg_salary": 25.8743720192469,
+			"max_salary": 80,
+			"min_salary": 1.5,
+			"avg_experience": 2.60926998860569
+		},
+		{
+			"title": "c++",
+			"hot": 3692,
+			"avg_salary": 16.919849349039,
+			"max_salary": 90,
+			"min_salary": 1.5,
+			"avg_experience": 2.92154179520327
+		},
+		{
+			"title": "新媒体运营",
+			"hot": 5476,
+			"avg_salary": 7.48027943134503,
+			"max_salary": 65,
+			"min_salary": 1.5,
+			"avg_experience": 1.59990016316508
+		},
+		{
+			"title": "平面设计",
+			"hot": 5582,
+			"avg_salary": 7.45176200923311,
+			"max_salary": 41.5,
+			"min_salary": 1.5,
+			"avg_experience": 1.94121719364147
+		},
+		{
+			"title": "销售经理",
+			"hot": 6514,
+			"avg_salary": 11.580887835801,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"avg_experience": 2.76206392266854
+		},
+		{
+			"title": "php",
+			"hot": 9060,
+			"avg_salary": 14.4086709273472,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"avg_experience": 2.81183376699008
+		},        
+		{
+			"title": "运维工程师",
+			"hot": 4325,
+			"avg_salary": 12.6478650363701,
+			"max_salary": 40,
+			"min_salary": 1.5,
+			"avg_experience": 2.62094362603345
+		},
+		{
+			"title": "安卓",
+			"hot": 8277,
+			"avg_salary": 17.2238338160383,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"avg_experience": 3.04616529058542
+		},
+		{
+			"title": "运营专员",
+			"hot": 6433,
+			"avg_salary": 7.28312253290544,
+			"max_salary": 33.5,
+			"min_salary": 1.5,
+			"avg_experience": 1.50546455308137
+		},
+		{
+			"title": "前端开发",
+			"hot": 8788,
+			"avg_salary": 14.7411427658244,
+			"max_salary": 55,
+			"min_salary": 1.5,
+			"avg_experience": 2.80849654980678
+		},
+		{
+			"title": "项目经理",
+			"hot": 3843,
+			"avg_salary": 15.1424631044921,
+			"max_salary": 52.5,
+			"min_salary": 1.5,
+			"avg_experience": 3.89477182621163
+		},
+		{
+			"title": "产品经理",
+			"hot": 10793,
+			"avg_salary": 19.9097241162504,
+			"max_salary": 60,
+			"min_salary": 1.5,
+			"avg_experience": 3.56767272718245
+		},
+		{
+			"title": "会计",
+			"hot": 3436,
+			"avg_salary": 6.93324917789887,
+			"max_salary": 45,
+			"min_salary": 1.5,
+			"avg_experience": 2.27643580182853
+		},
+		{
+			"title": "运营经理",
+			"hot": 5613,
+			"avg_salary": 15.2329590570864,
+			"max_salary": 80,
+			"min_salary": 1.5,
+			"avg_experience": 3.45251358465915
+		},
+		{
+			"title": "数据分析",
+			"hot": 3517,
+			"avg_salary": 14.9436355843567,
+			"max_salary": 95,
+			"min_salary": 1.5,
+			"avg_experience": 2.56437238878013
+		},
+        {
+			"title": "文案策划",
+			"hot": 4438,
+			"avg_salary": 7.42495144608117,
+			"max_salary": 55,
+			"min_salary": 1.5,
+			"avg_experience": 1.84007734168836
+		},
+        {
+			"title": ".NET",
+			"hot": 4084,
+			"avg_salary": 11.2290261467747,
+			"max_salary": 40,
+			"min_salary": 1.5,
+			"avg_experience": 2.65632087697994
+		}
+	]
+}
+

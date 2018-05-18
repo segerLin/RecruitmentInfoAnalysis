@@ -1,0 +1,315 @@
+{
+	"data":
+	[
+		{
+			"job_province": "北京市",
+			"company_num": 22273,
+			"job_num": 123561,
+			"company_area_num": 554,
+			"avg_salary": 14.320194074182,
+			"max_salary": 100,
+			"min_salary": 1.5,
+			"job_title_num": 43680
+		},
+		{
+			"job_province": "天津市",
+			"company_num": 1142,
+			"job_num": 2891,
+			"company_area_num": 182,
+			"avg_salary": 7.1734693877551,
+			"max_salary": 70,
+			"min_salary": 1.5,
+			"job_title_num": 1701
+		},
+		{
+			"job_province": "河北省",
+			"company_num": 637,
+			"job_num": 1126,
+			"company_area_num": 139,
+			"avg_salary": 6.55239786856128,
+			"max_salary": 85,
+			"min_salary": 1.5,
+			"job_title_num": 764
+		},
+		{
+			"job_province": "山西省",
+			"company_num": 270,
+			"job_num": 449,
+			"company_area_num": 78,
+			"avg_salary": 6.49443207126949,
+			"max_salary": 85.5,
+			"min_salary": 1.5,
+			"job_title_num": 331
+		},
+		{
+			"job_province": "内蒙古自治区",
+			"company_num": 92,
+			"job_num": 128,
+			"company_area_num": 47,
+			"avg_salary": 6.39453125,
+			"max_salary": 16,
+			"min_salary": 2.5,
+			"job_title_num": 104
+		},
+		{
+			"job_province": "辽宁省",
+			"company_num": 1269,
+			"job_num": 2957,
+			"company_area_num": 171,
+			"avg_salary": 9.55326344267839,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"job_title_num": 1639
+		},
+		{
+			"job_province": "吉林省",
+			"company_num": 168,
+			"job_num": 242,
+			"company_area_num": 55,
+			"avg_salary": 7.45867768595041,
+			"max_salary": 45,
+			"min_salary": 1.5,
+			"job_title_num": 209
+		},
+		{
+			"job_province": "黑龙江省",
+			"company_num": 207,
+			"job_num": 324,
+			"company_area_num": 63,
+			"avg_salary": 6.00462962962963,
+			"max_salary": 30,
+			"min_salary": 1.5,
+			"job_title_num": 274
+		},
+		{
+			"job_province": "上海市",
+			"company_num": 13207,
+			"job_num": 58089,
+			"company_area_num": 452,
+			"avg_salary": 13.0765291191103,
+			"max_salary": 99.5,
+			"min_salary": 1,
+			"job_title_num": 22869
+		},
+		{
+			"job_province": "江苏省",
+			"company_num": 4123,
+			"job_num": 11525,
+			"company_area_num": 327,
+			"avg_salary": 9.07457700650759,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"job_title_num": 5284
+		},
+		{
+			"job_province": "浙江省",
+			"company_num": 7508,
+			"job_num": 32441,
+			"company_area_num": 389,
+			"avg_salary": 11.8251132825745,
+			"max_salary": 99.5,
+			"min_salary": 1.5,
+			"job_title_num": 12676
+		},
+		{
+			"job_province": "安徽省",
+			"company_num": 900,
+			"job_num": 2089,
+			"company_area_num": 160,
+			"avg_salary": 7.6649114408808,
+			"max_salary": 52.5,
+			"min_salary": 1.5,
+			"job_title_num": 1207
+		},
+		{
+			"job_province": "福建省",
+			"company_num": 2052,
+			"job_num": 6171,
+			"company_area_num": 214,
+			"avg_salary": 10.7581429265921,
+			"max_salary": 90,
+			"min_salary": 1.5,
+			"job_title_num": 3172
+		},
+		{
+			"job_province": "江西省",
+			"company_num": 385,
+			"job_num": 683,
+			"company_area_num": 110,
+			"avg_salary": 6.87481698389458,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"job_title_num": 513
+		},
+		{
+			"job_province": "山东省",
+			"company_num": 1689,
+			"job_num": 3787,
+			"company_area_num": 237,
+			"avg_salary": 7.60602059677845,
+			"max_salary": 99.5,
+			"min_salary": 1.5,
+			"job_title_num": 2063
+		},
+		{
+			"job_province": "河南省",
+			"company_num": 1408,
+			"job_num": 3468,
+			"company_area_num": 211,
+			"avg_salary": 7.31805074971165,
+			"max_salary": 60,
+			"min_salary": 1.5,
+			"job_title_num": 1792
+		},
+		{
+			"job_province": "湖北省",
+			"company_num": 2878,
+			"job_num": 8817,
+			"company_area_num": 291,
+			"avg_salary": 8.43501190881252,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"job_title_num": 4240
+		},
+		{
+			"job_province": "湖南省",
+			"company_num": 1628,
+			"job_num": 4331,
+			"company_area_num": 197,
+			"avg_salary": 7.75075040406373,
+			"max_salary": 100,
+			"min_salary": 1.5,
+			"job_title_num": 2266
+		},
+		{
+			"job_province": "广东省",
+			"company_num": 23029,
+			"job_num": 94268,
+			"company_area_num": 586,
+			"avg_salary": 10.9835256927059,
+			"max_salary": 99.5,
+			"min_salary": 1,
+			"job_title_num": 33026
+		},
+		{
+			"job_province": "广西壮族自治区",
+			"company_num": 306,
+			"job_num": 649,
+			"company_area_num": 97,
+			"avg_salary": 7.77734976887519,
+			"max_salary": 81.5,
+			"min_salary": 1.5,
+			"job_title_num": 476
+		},
+		{
+			"job_province": "海南省",
+			"company_num": 153,
+			"job_num": 247,
+			"company_area_num": 64,
+			"avg_salary": 7.16801619433198,
+			"max_salary": 37.5,
+			"min_salary": 1.5,
+			"job_title_num": 202
+		},
+		{
+			"job_province": "重庆市",
+			"company_num": 1195,
+			"job_num": 2929,
+			"company_area_num": 184,
+			"avg_salary": 7.96944349607375,
+			"max_salary": 75,
+			"min_salary": 1.5,
+			"job_title_num": 1682
+		},
+		{
+			"job_province": "四川省",
+			"company_num": 5068,
+			"job_num": 15871,
+			"company_area_num": 359,
+			"avg_salary": 8.82531031440993,
+			"max_salary": 98.5,
+			"min_salary": 1.5,
+			"job_title_num": 7165
+		},
+		{
+			"job_province": "贵州省",
+			"company_num": 265,
+			"job_num": 502,
+			"company_area_num": 91,
+			"avg_salary": 7.31374501992032,
+			"max_salary": 27.5,
+			"min_salary": 1.5,
+			"job_title_num": 358
+		},
+		{
+			"job_province": "云南省",
+			"company_num": 302,
+			"job_num": 550,
+			"company_area_num": 93,
+			"avg_salary": 7.79636363636364,
+			"max_salary": 60,
+			"min_salary": 1.5,
+			"job_title_num": 413
+		},
+		{
+			"job_province": "西藏自治区",
+			"company_num": 21,
+			"job_num": 33,
+			"company_area_num": 16,
+			"avg_salary": 11.3030303030303,
+			"max_salary": 30,
+			"min_salary": 2.5,
+			"job_title_num": 31
+		},
+		{
+			"job_province": "陕西省",
+			"company_num": 1880,
+			"job_num": 4559,
+			"company_area_num": 235,
+			"avg_salary": 7.50054836586971,
+			"max_salary": 50.5,
+			"min_salary": 1.5,
+			"job_title_num": 2376
+		},
+		{
+			"job_province": "甘肃省",
+			"company_num": 89,
+			"job_num": 133,
+			"company_area_num": 48,
+			"avg_salary": 7.18421052631579,
+			"max_salary": 30,
+			"min_salary": 1.5,
+			"job_title_num": 119
+		},
+		{
+			"job_province": "青海省",
+			"company_num": 36,
+			"job_num": 47,
+			"company_area_num": 24,
+			"avg_salary": 5.91489361702128,
+			"max_salary": 20,
+			"min_salary": 2.5,
+			"job_title_num": 42
+		},
+		{
+			"job_province": "宁夏回族自治区",
+			"company_num": 44,
+			"job_num": 54,
+			"company_area_num": 30,
+			"avg_salary": 6.51851851851852,
+			"max_salary": 16,
+			"min_salary": 1.5,
+			"job_title_num": 50
+		},
+		{
+			"job_province": "新疆维吾尔自治区",
+			"company_num": 82,
+			"job_num": 118,
+			"company_area_num": 41,
+			"avg_salary": 7.44915254237288,
+			"max_salary": 20,
+			"min_salary": 2.5,
+			"job_title_num": 105
+		}
+	]
+}

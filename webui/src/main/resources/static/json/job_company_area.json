@@ -1,0 +1,165 @@
+{
+	"data":
+	[
+		{
+			"company_area": "移动互联网",
+			"job_num": 53143,
+			"avg_salary": 13.6823346547832,
+			"hot_job": "产品经理",
+			"hot_job_num": 791,
+			"company_num": 9014
+		},
+		{
+			"company_area": "移动互联网,电子商务",
+			"job_num": 26750,
+			"avg_salary": 11.7005213741975,
+			"hot_job": "产品经理",
+			"hot_job_num": 443,
+			"company_num": 5805
+		},
+		{
+			"company_area": "金融",
+			"job_num": 24400,
+			"avg_salary": 14.0671064009286,
+			"hot_job": "产品经理",
+			"hot_job_num": 277,
+			"company_num": 4160
+		},
+		{
+			"company_area": "移动互联网,O2O",
+			"job_num": 19236,
+			"avg_salary": 14.1631509233791,
+			"hot_job": "产品经理",
+			"hot_job_num": 280,
+			"company_num": 2632
+		},
+		{
+			"company_area": "电子商务",
+			"job_num": 18723,
+			"avg_salary": 11.4395210346666,
+			"hot_job": "文案策划",
+			"hot_job_num": 253,
+			"company_num": 4415
+		},
+		{
+			"company_area": "移动互联网,金融",
+			"job_num": 16627,
+			"avg_salary": 14.6616098625149,
+			"hot_job": "产品经理",
+			"hot_job_num": 239,
+			"company_num": 2294
+		},
+		{
+			"company_area": "移动互联网,数据服务",
+			"job_num": 13367,
+			"avg_salary": 16.1624731698091,
+			"hot_job": "Java",
+			"hot_job_num": 159,
+			"company_num": 1774
+		},
+		{
+			"company_area": "移动互联网,企业服务",
+			"job_num": 11913,
+			"avg_salary": 12.0300447913095,
+			"hot_job": "Java",
+			"hot_job_num": 210,
+			"company_num": 2727
+		},
+		{
+			"company_area": "移动互联网,教育",
+			"job_num": 10368,
+			"avg_salary": 12.7555652601866,
+			"hot_job": "产品经理",
+			"hot_job_num": 145,
+			"company_num": 1456
+		},
+		{
+			"company_area": "其他",
+			"job_num": 10332,
+			"avg_salary": 9.72020057457121,
+			"hot_job": "平面设计师",
+			"hot_job_num": 115,
+			"company_num": 4421
+		},
+		{
+			"company_area": "移动互联网,游戏",
+			"job_num": 9452,
+			"avg_salary": 12.5200917038128,
+			"hot_job": "游戏策划",
+			"hot_job_num": 91,
+			"company_num": 1319
+		},
+		{
+			"company_area": "游戏",
+			"job_num": 8444,
+			"avg_salary": 12.4145399233412,
+			"hot_job": "游戏策划",
+			"hot_job_num": 117,
+			"company_num": 1417
+		},
+		{
+			"company_area": "教育",
+			"job_num": 8074,
+			"avg_salary": 9.96859421833719,
+			"hot_job": "课程顾问",
+			"hot_job_num": 287,
+			"company_num": 2257
+		},
+		{
+			"company_area": "移动互联网,文化娱乐",
+			"job_num": 7616,
+			"avg_salary": 13.0917965144791,
+			"hot_job": "新媒体运营",
+			"hot_job_num": 124,
+			"company_num": 1157
+		},
+		{
+			"company_area": "企业服务",
+			"job_num": 6985,
+			"avg_salary": 11.0204349063866,
+			"hot_job": "销售专员",
+			"hot_job_num": 116,
+			"company_num": 1775
+		},
+		{
+			"company_area": "移动互联网,社交网络",
+			"job_num": 6561,
+			"avg_salary": 13.2051779222787,
+			"hot_job": "产品经理",
+			"hot_job_num": 122,
+			"company_num": 1309
+		},
+		{
+			"company_area": "移动互联网,硬件",
+			"job_num": 6418,
+			"avg_salary": 13.9006030132481,
+			"hot_job": "产品经理",
+			"hot_job_num": 74,
+			"company_num": 1101
+		},
+		{
+			"company_area": "移动互联网,广告营销",
+			"job_num": 5948,
+			"avg_salary": 11.0255709365736,
+			"hot_job": "文案策划",
+			"hot_job_num": 92,
+			"company_num": 1089
+		},
+		{
+			"company_area": "电子商务,移动互联网",
+			"job_num": 5503,
+			"avg_salary": 14.247304689279,
+			"hot_job": "产品经理",
+			"hot_job_num": 54,
+			"company_num": 1052
+		},
+		{
+			"company_area": "电子商务,O2O",
+			"job_num": 5238,
+			"avg_salary": 10.8298726462843,
+			"hot_job": "产品经理",
+			"hot_job_num": 78,
+			"company_num": 1060
+		}
+	]
+}
